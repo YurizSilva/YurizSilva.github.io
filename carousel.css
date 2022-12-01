@@ -111,3 +111,9 @@ body {
 .fa-whatsapp{
 	color: #25D366;
 }
+
+@media screen and (max-width: 767px){
+.mapalocal{
+  width: 100%
+}
+}
